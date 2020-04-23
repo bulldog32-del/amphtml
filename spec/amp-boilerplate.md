@@ -14,7 +14,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# AMP Boilerplate Code
+# AMP Boilerplate Cod
+<script data-ad-client="ca-pub-4213585559087885" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 ## `head > style[amp-boilerplate]` and `noscript > style[amp-boilerplate]`
 
